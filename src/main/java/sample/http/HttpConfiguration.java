@@ -1,4 +1,4 @@
-package soma.http;
+package sample.http;
 
 import com.squareup.okhttp.OkHttpClient;
 import org.springframework.context.annotation.Bean;

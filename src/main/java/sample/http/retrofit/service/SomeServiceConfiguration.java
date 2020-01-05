@@ -1,4 +1,4 @@
-package soma.http.retrofit.service;
+package sample.http.retrofit.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

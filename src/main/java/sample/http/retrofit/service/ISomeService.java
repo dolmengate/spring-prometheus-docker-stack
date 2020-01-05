@@ -1,4 +1,4 @@
-package soma.http.retrofit.service;
+package sample.http.retrofit.service;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
